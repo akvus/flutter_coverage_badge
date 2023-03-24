@@ -105,7 +105,7 @@ packages:
       path: "."
       ref: HEAD
       resolved-ref: "532be83f31b49fcad66884dee38ae1affe7c4319"
-      url: "git@github.com:amondnet/lcov.dart.git"
+      url: "https://github.com/amondnet/lcov.dart.git"
     source: git
     version: "6.0.0"
   matcher:
